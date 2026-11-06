@@ -1,0 +1,40 @@
+# Day 01 – Information Gathering & Reconnaissance
+
+## Overview
+Day 01 focused on the initial reconnaissance and information-gathering phase of the Vulnerability Assessment and Penetration Testing (VAPT) project. The objective was to identify the target environment, analyze exposed network services, and establish a baseline for further security assessments.
+
+## Objectives
+- Identify the target application and its environment.
+- Perform initial network reconnaissance.
+- Identify open ports and running services.
+- Analyze service versions and potential security concerns.
+- Document findings and supporting evidence.
+
+## Tools Used
+- Kali Linux
+- Nmap
+- VirtualBox
+- Terminal
+
+## Activities Performed
+1. Identified the target system within the authorized testing environment.
+2. Conducted an initial Nmap scan to identify open ports.
+3. Performed service version detection to gather information about running services.
+4. Analyzed the scan output to understand the target's network exposure.
+5. Captured screenshots and documented the reconnaissance results.
+
+## Assessment Results
+The reconnaissance phase provided an initial understanding of the target system, its exposed services, and potential areas requiring further investigation.
+
+Detailed scan results, observations, and supporting screenshots are maintained within this directory.
+
+## Evidence
+- Nmap scan results
+- Service enumeration screenshots
+- Reconnaissance notes
+
+## Conclusion
+The initial information-gathering phase was completed successfully. The collected information establishes a foundation for the subsequent application security assessment and vulnerability identification phases.
+
+## Next Phase
+**Day 02 – Application Access Assessment**
