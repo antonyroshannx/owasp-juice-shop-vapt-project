@@ -1,0 +1,22 @@
+### Day 2: Admin and Payment Access Observations
+
+**Objective:**  
+Explore administrative and payment-related functionality in the OWASP Juice Shop application and document the observed access behavior.
+
+**Activities Performed:**
+- Navigated to the application's administrative functionality.
+- Observed the admin access interface.
+- Examined the payment-related functionality.
+- Captured screenshots of the observed admin and payment access.
+
+**Evidence Collected:**
+- `DAY-02_Admin-Access-Observation.png`
+- `DAY-02_Payment-Access-Observation.png`
+
+**Observations:**  
+The assessment documented the application's admin and payment-related interfaces. The screenshots provide evidence of the functionality observed during testing. Further verification is required to determine whether any access-control restrictions can be bypassed.
+
+**Outcome:**  
+Initial observations of admin and payment functionality were documented. No confirmed unauthorized access or vulnerability is claimed based solely on the available screenshots.
+
+**Status:** Initial exploration completed; access-control validation pending.
